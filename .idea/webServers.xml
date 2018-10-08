@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="35547594-1ace-46bc-89a9-0f3f283214a5" name="stephen" url="http:///bootcamp-coders.cnm.edu/~spelot/stephen">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/spelot/public_html/stephen/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

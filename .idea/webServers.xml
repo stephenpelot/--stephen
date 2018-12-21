@@ -2,8 +2,13 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
+<<<<<<< Updated upstream
       <webServer id="35547594-1ace-46bc-89a9-0f3f283214a5" name="stephen" url="http://bootcamp-coders.cnm.edu/~cedmo/stephen/">
         <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/cedmo/public_html/stephen/" accessType="SFTP" authAgent="true">
+=======
+      <webServer id="35547594-1ace-46bc-89a9-0f3f283214a5" name="stephen" url="https://bootcamp-coders.cnm.edu/~cedmo/--stephen/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/cedmo/public_html/--stephen" accessType="SFTP" authAgent="true">
+>>>>>>> Stashed changes
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
